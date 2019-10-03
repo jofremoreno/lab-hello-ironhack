@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 class Header extends Component {
   render() {
     return (
-      <div className="App-header">
+      <div className="header">
         <Navbar></Navbar>
       </div>
     );
