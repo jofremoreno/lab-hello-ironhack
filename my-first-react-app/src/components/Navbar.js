@@ -7,14 +7,14 @@ class Navbar extends Component {
         <div className="logo-Ironhack">
           <img
             className="logo"
-            src={process.env.PUBLIC_URL + 'images/ironhack-logo.svg'}
+            src={'/images/ironhack-logo.svg'}
             alt="Ironhack Logo"
           />
         </div>
         <div className="logo-Hamburguer">
           <img
             className="logo"
-            src={process.env.PUBLIC_URL + 'images/menu-top.svg'}
+            src={'/images/menu-top.svg'}
             alt="Menu hamburguer Logo"
           />
         </div>
