@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.navbar {
+  margin: 2% 3%;
+}
+
+h1 {
+  margin-left: 5%;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+}
+
+.App-button {
+  margin-top: 2%;
+  font-size: larger;
+  padding: 2% 4%;
+  text-align: center;
+  border-radius: 4px;
+  
+}
+
+.title-text {
+  margin-left: 5%;
+}
+
+.Card-Container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5%;
+  margin-left: 7%;
+  
+}
+
+.App-title-card {
+  font-weight: bold;
+  margin-top: 3%;
+}
+
+.App-text-card {
+  width: 35%;
+  font-weight: lighter;
+}
